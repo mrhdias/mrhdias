@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##
-<b>My GitHub Stats</b>
+<b>My GitHub Stats For Public Repositories</b>
 
 <div align="center">
   <a href="https://github.com/mrhdias">
