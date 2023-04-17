@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <b>My GitHub Stats For Public Repositories</b>
-  
+<div style="display: inline;">
 <a href="https://github.com/mrhdias">
 <picture>
 <source 
@@ -44,3 +44,4 @@ Here are some ideas to get you started:
 <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mrhdias&layout=compact&langs_count=10" />
 </picture>
 </a>
+  </div>
