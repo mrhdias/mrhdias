@@ -25,22 +25,22 @@ Here are some ideas to get you started:
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=mrhdias&show_icons=true&include_all_commits=true&count_private=true"
+  srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=mrhdias&show_icons=true&include_all_commits=true&count_private=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=mrhdias&show_icons=true&include_all_commits=true&count_private=true" />
+<img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mrhdias&show_icons=true&include_all_commits=true&count_private=true" />
 </picture>
 </a>
 <a href="https://github.com/mrhdias">
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhdias&layout=compact&langs_count=10&theme=dark"
+  srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mrhdias&layout=compact&langs_count=10&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhdias&layout=compact&langs_count=10"
+  srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mrhdias&layout=compact&langs_count=10"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhdias&layout=compact&langs_count=10" />
+<img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mrhdias&layout=compact&langs_count=10" />
 </picture>
 </a>
